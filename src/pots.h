@@ -10,8 +10,8 @@ const int POT_R_PINS[] = {POT_R_1, POT_R_2, POT_R_3};
 int potLCState[3] = {0}, potLPState[3] = {0}, midiLCState[3] = {0}, midiLPState[3] = {0};
 int potRCState[3] = {0}, potRPState[3] = {0}, midiRCState[3] = {0}, midiRPState[3] = {0};
 
-const int TIMEOUT = 300;
-const int varThreshold = 25;
+const int TIMEOUT = 600;
+const int varThreshold = 3;
 const float snapMultiplier = 0.02;
 const int potMin = 10;
 const int potMax = 1023;
