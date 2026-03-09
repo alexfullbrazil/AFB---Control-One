@@ -29,6 +29,16 @@ void setupPots()
     {
         responsivePotL[i].setAnalogResolution(1023);
         responsivePotR[i].setAnalogResolution(1023);
+
+        // Lê e envia a posição física real no boot
+        // Garante que o Serato abre com o valor do pot, não com zero
+        int valL = constrain(map(analogRead(POT_L_PINS[i]), potMin, potMax, 0, 127), 0, 127);
+        usbMIDI.sendControlChange(POT_L_CC_START + i, valL, MIDI_CH);
+        midiLPState[i] = valL;
+
+        int valR = constrain(map(analogRead(POT_R_PINS[i]), potMin, potMax, 0, 127), 0, 127);
+        usbMIDI.sendControlChange(POT_R_CC_START + i, valR, MIDI_CH);
+        midiRPState[i] = valR;
     }
 }
 
