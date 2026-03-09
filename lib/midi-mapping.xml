@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<midi app="2.5.5.83">
+
+  <!-- =========== Cues Deck L =========== -->
+
+  <!-- ── Cue 1 Deck L (nota 36) ── -->
+  <control channel="1" event_type="Note On" control="36">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="0" slot_id="0">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="0" slot_id="0">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 2 Deck L (nota 37) ── -->
+  <control channel="1" event_type="Note On" control="37">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="0" slot_id="1">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="0" slot_id="1">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 3 Deck L (nota 38) ── -->
+  <control channel="1" event_type="Note On" control="38">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="0" slot_id="2">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="0" slot_id="2">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 4 Deck L (nota 39) ── -->
+  <control channel="1" event_type="Note On" control="39">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="0" slot_id="3">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="0" slot_id="3">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 5 Deck L (nota 40) ── -->
+  <control channel="1" event_type="Note On" control="40">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="0" slot_id="4">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="0" slot_id="4">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 6 Deck L (nota 41) ── -->
+  <control channel="1" event_type="Note On" control="41">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="0" slot_id="5">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="0" slot_id="5">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 7 Deck L (nota 42) ── -->
+  <control channel="1" event_type="Note On" control="42">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="0" slot_id="6">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="0" slot_id="6">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 8 Deck L (nota 43) ── -->
+  <control channel="1" event_type="Note On" control="43">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="0" slot_id="7">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="0" slot_id="7">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- =========== Cues Deck R =========== -->
+
+  <!-- ── Cue 1 Deck R (nota 44) ── -->
+  <control channel="1" event_type="Note On" control="44">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="1" slot_id="0">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="1" slot_id="0">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 2 Deck R (nota 45) ── -->
+  <control channel="1" event_type="Note On" control="45">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="1" slot_id="1">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="1" slot_id="1">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 3 Deck R (nota 46) ── -->
+  <control channel="1" event_type="Note On" control="46">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="1" slot_id="2">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="1" slot_id="2">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 4 Deck R (nota 47) ── -->
+  <control channel="1" event_type="Note On" control="47">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="1" slot_id="3">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="1" slot_id="3">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 5 Deck R (nota 48) ── -->
+  <control channel="1" event_type="Note On" control="48">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="1" slot_id="4">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="1" slot_id="4">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 6 Deck R (nota 49) ── -->
+  <control channel="1" event_type="Note On" control="49">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="1" slot_id="5">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="1" slot_id="5">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 7 Deck R (nota 50) ── -->
+  <control channel="1" event_type="Note On" control="50">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="1" slot_id="6">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="1" slot_id="6">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- ── Cue 8 Deck R (nota 51) ── -->
+  <control channel="1" event_type="Note On" control="51">
+    <userio event="click">
+      <cue_point deck_set="Default" deck_id="1" slot_id="7">
+        <translation action_on="any" behaviour="explicit"/>
+      </cue_point>
+    </userio>
+    <userio event="output">
+      <cue_point_set deck_set="Default" deck_id="1" slot_id="7">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </cue_point_set>
+    </userio>
+  </control>
+
+  <!-- =========== FX Deck L =========== -->
+
+  <!-- ── FX 1 Deck L (nota 52) ── -->
+  <control channel="1" event_type="Note On" control="52">
+    <userio event="click">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="0" slot_id="1">
+        <translation action_on="press" behaviour="toggle"/>
+      </effect_level_1_slot_enable>
+    </userio>
+    <userio event="output">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="0" slot_id="1">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </effect_level_1_slot_enable>
+    </userio>
+  </control>
+
+  <!-- ── FX 2 Deck L (nota 53) ── -->
+  <control channel="1" event_type="Note On" control="53">
+    <userio event="click">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="0" slot_id="2">
+        <translation action_on="press" behaviour="toggle"/>
+      </effect_level_1_slot_enable>
+    </userio>
+    <userio event="output">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="0" slot_id="2">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </effect_level_1_slot_enable>
+    </userio>
+  </control>
+
+  <!-- ── FX 3 Deck L (nota 54) ── -->
+  <control channel="1" event_type="Note On" control="54">
+    <userio event="click">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="0" slot_id="3">
+        <translation action_on="press" behaviour="toggle"/>
+      </effect_level_1_slot_enable>
+    </userio>
+    <userio event="output">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="0" slot_id="3">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </effect_level_1_slot_enable>
+    </userio>
+  </control>
+
+  <!-- =========== FX Deck R =========== -->
+
+  <!-- ── FX 1 Deck R (nota 55) ── -->
+  <control channel="1" event_type="Note On" control="55">
+    <userio event="click">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="1" slot_id="1">
+        <translation action_on="press" behaviour="toggle"/>
+      </effect_level_1_slot_enable>
+    </userio>
+    <userio event="output">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="1" slot_id="1">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </effect_level_1_slot_enable>
+    </userio>
+  </control>
+
+  <!-- ── FX 2 Deck R (nota 56) ── -->
+  <control channel="1" event_type="Note On" control="56">
+    <userio event="click">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="1" slot_id="2">
+        <translation action_on="press" behaviour="toggle"/>
+      </effect_level_1_slot_enable>
+    </userio>
+    <userio event="output">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="1" slot_id="2">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </effect_level_1_slot_enable>
+    </userio>
+  </control>
+
+  <!-- ── FX 3 Deck R (nota 57) ── -->
+  <control channel="1" event_type="Note On" control="57">
+    <userio event="click">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="1" slot_id="3">
+        <translation action_on="press" behaviour="toggle"/>
+      </effect_level_1_slot_enable>
+    </userio>
+    <userio event="output">
+      <effect_level_1_slot_enable deck_set="DJ Effects" deck_id="1" slot_id="3">
+        <translation action_on="any">
+          <alias name="on" value="127"/>
+          <alias name="off" value="0"/>
+        </translation>
+      </effect_level_1_slot_enable>
+    </userio>
+  </control>
+
+  <!-- =========== POTs Deck L =========== -->
+
+  <!-- ── POT 1 Deck L (CC 1) ── -->
+  <control channel="1" event_type="Control Change" data_type="Absolute 7" control="1">
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="0" slot_id="0" operator="equal" cmp_value="Single Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_slot_parameter_1 deck_set="DJ Effects" deck_id="0" slot_id="0">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_slot_parameter_1>
+      </userio>
+    </case>
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="0" slot_id="0" operator="equal" cmp_value="Multi Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_level_1_slot_parameter_1 deck_set="DJ Effects" deck_id="0" slot_id="1">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_level_1_slot_parameter_1>
+      </userio>
+    </case>
+  </control>
+
+  <!-- ── POT 2 Deck L (CC 2) ── -->
+  <control channel="1" event_type="Control Change" data_type="Absolute 7" control="2">
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="0" slot_id="0" operator="equal" cmp_value="Single Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_slot_parameter_2 deck_set="DJ Effects" deck_id="0" slot_id="0">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_slot_parameter_2>
+      </userio>
+    </case>
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="0" slot_id="0" operator="equal" cmp_value="Multi Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_level_1_slot_parameter_1 deck_set="DJ Effects" deck_id="0" slot_id="2">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_level_1_slot_parameter_1>
+      </userio>
+    </case>
+  </control>
+
+  <!-- ── POT 3 Deck L (CC 3) ── -->
+  <control channel="1" event_type="Control Change" data_type="Absolute 7" control="3">
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="0" slot_id="0" operator="equal" cmp_value="Single Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_slot_parameter_3 deck_set="DJ Effects" deck_id="0" slot_id="0">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_slot_parameter_3>
+      </userio>
+    </case>
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="0" slot_id="0" operator="equal" cmp_value="Multi Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_level_1_slot_parameter_1 deck_set="DJ Effects" deck_id="0" slot_id="3">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_level_1_slot_parameter_1>
+      </userio>
+    </case>
+  </control>
+
+  <!-- =========== POTs Deck R =========== -->
+
+  <!-- ── POT 1 Deck R (CC 4) ── -->
+  <control channel="1" event_type="Control Change" data_type="Absolute 7" control="4">
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="1" slot_id="0" operator="equal" cmp_value="Single Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_slot_parameter_1 deck_set="DJ Effects" deck_id="1" slot_id="0">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_slot_parameter_1>
+      </userio>
+    </case>
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="1" slot_id="0" operator="equal" cmp_value="Multi Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_level_1_slot_parameter_1 deck_set="DJ Effects" deck_id="1" slot_id="1">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_level_1_slot_parameter_1>
+      </userio>
+    </case>
+  </control>
+
+  <!-- ── POT 2 Deck R (CC 5) ── -->
+  <control channel="1" event_type="Control Change" data_type="Absolute 7" control="5">
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="1" slot_id="0" operator="equal" cmp_value="Single Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_slot_parameter_2 deck_set="DJ Effects" deck_id="1" slot_id="0">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_slot_parameter_2>
+      </userio>
+    </case>
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="1" slot_id="0" operator="equal" cmp_value="Multi Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_level_1_slot_parameter_1 deck_set="DJ Effects" deck_id="1" slot_id="2">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_level_1_slot_parameter_1>
+      </userio>
+    </case>
+  </control>
+
+  <!-- ── POT 3 Deck R (CC 6) ── -->
+  <control channel="1" event_type="Control Change" data_type="Absolute 7" control="6">
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="1" slot_id="0" operator="equal" cmp_value="Single Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_slot_parameter_3 deck_set="DJ Effects" deck_id="1" slot_id="0">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_slot_parameter_3>
+      </userio>
+    </case>
+    <case>
+      <condition>
+        <effect_bank_mode deck_set="DJ Effects" deck_id="1" slot_id="0" operator="equal" cmp_value="Multi Mode"/>
+      </condition>
+      <userio event="click">
+        <effect_level_1_slot_parameter_1 deck_set="DJ Effects" deck_id="1" slot_id="3">
+          <translation action_on="any" behaviour="explicit"/>
+        </effect_level_1_slot_parameter_1>
+      </userio>
+    </case>
+  </control>
+
+  <!-- =========== Tap Tempo =========== -->
+
+  <!-- ── Tap Tempo Deck L (CC 27) ── -->
+  <control channel="1" event_type="Control Change" control="27">
+    <userio event="click">
+      <effect_bank_tap_tempo deck_set="DJ Effects" deck_id="0" slot_id="0">
+        <translation action_on="any" behaviour="explicit"/>
+      </effect_bank_tap_tempo>
+    </userio>
+  </control>
+
+  <!-- ── Tap Tempo Deck R (CC 35) ── -->
+  <control channel="1" event_type="Control Change" control="35">
+    <userio event="click">
+      <effect_bank_tap_tempo deck_set="DJ Effects" deck_id="1" slot_id="0">
+        <translation action_on="any" behaviour="explicit"/>
+      </effect_bank_tap_tempo>
+    </userio>
+  </control>
+
+</midi>
