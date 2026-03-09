@@ -20,12 +20,13 @@ void updateFxBlink()
     {
         if (fxLActive[i])
         {
-            Color c = fxBlinkState ? amplifyColor(BTN_COLORS[i]) : BTN_COLORS[i];
+            // Alterna entre cor própria e branco puro
+            Color c = fxBlinkState ? Color{255, 255, 255} : BTN_COLORS[i];
             setLed(i, c.r, c.g, c.b);
         }
         if (fxRActive[i])
         {
-            Color c = fxBlinkState ? amplifyColor(BTN_COLORS[i]) : BTN_COLORS[i];
+            Color c = fxBlinkState ? Color{255, 255, 255} : BTN_COLORS[i];
             setLed(16 + i, c.r, c.g, c.b);
         }
     }
